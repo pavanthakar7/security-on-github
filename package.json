@@ -3,17 +3,17 @@
   "description": "Memory game with Octocats",
   "version": "2.68",
   "dependencies": {
-    "debug": "?",
-    "ejs": "^2.5.6",
-    "hoek": "^4.0.0",
-    "npm": "^6.4.1",
-    "streaming-json-stringify": "^3.1.0"
+    "debug": "2.68",
+    "ejs": "^2.68",
+    "hoek": "^2.68",
+    "npm": "^2.68",
+    "streaming-json-stringify": "^2.68"
   },
   "devDependencies": {
-    "eslint": "^3.8.1"
+    "eslint": "^2.68"
   },
   "engines": {
-    "npm": "2.15.0"
+    "npm": "2.68"
   },
   "license": "MIT"
 }
